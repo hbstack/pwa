@@ -6,6 +6,7 @@ github.com/hbstack/base v0.1.0 h1:jTxY5aVtnCc4x2MZgVB8gR/8/4ahvQ9hPYBPrxDXCaU=
 github.com/hbstack/base v0.1.0/go.mod h1:DytQuMuDcCQ4gdIQvx/3+ekyQL/ReDqbEJc2pq+j3R0=
 github.com/hbstack/hb v0.1.0 h1:GbnJbJi9c9gdXkfESqjt5eCZZ5NQmuhbsLCnMOnPyu4=
 github.com/hbstack/hb v0.1.0/go.mod h1:0AZsAVtgylZcPEAF4bwX1Zyy/hRBGSXoj+usD/wMr4A=
+github.com/hbstack/hb v0.1.2/go.mod h1:j1CyW+HWmbqdAgagn8FPEtdTGZEdTHVZdml+vqfsKiU=
 github.com/hugomods/idb-js v0.1.0 h1:mA6hEGtR0aFEdmq9zYMGpfSpCU6SMilx9RzC4uK3DqY=
 github.com/hugomods/idb-js v0.1.0/go.mod h1:GPfnmr+BQpP4s6Epd4Yu+RlUog8q/Djw8qy8BZFWZ04=
 github.com/hugomods/pwa v0.1.0 h1:H8MF1nx3tFD5gjhW12ZQAoDGMUtxpGmL4A3+cnvkYeM=
