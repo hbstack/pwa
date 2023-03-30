@@ -3,3 +3,6 @@ path = "github.com/hbstack/base"
 
 [[module.imports]]
 path = "github.com/hugomods/pwa"
+
+[params.pwa]
+icon_path = "images/logo.png"
