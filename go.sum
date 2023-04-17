@@ -11,3 +11,4 @@ github.com/hugomods/idb-js v0.1.0 h1:mA6hEGtR0aFEdmq9zYMGpfSpCU6SMilx9RzC4uK3DqY
 github.com/hugomods/idb-js v0.1.0/go.mod h1:GPfnmr+BQpP4s6Epd4Yu+RlUog8q/Djw8qy8BZFWZ04=
 github.com/hugomods/pwa v0.2.1 h1:0B55AdsgyRURR3K4CvYAgVLaoBN3883ghCmd06A05a4=
 github.com/hugomods/pwa v0.2.1/go.mod h1:gNUU0CesSWxJAeK3lBk+vlHiqJO+E+5p2ylLj0OIaM8=
+github.com/hugomods/pwa v0.2.2/go.mod h1:aZDPsKRrXFRiABz87mGCkkqt+TjDj1PjPVzGXhZZBVo=
