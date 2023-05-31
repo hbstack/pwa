@@ -6,7 +6,7 @@ require (
 	github.com/GoogleChrome/workbox v6.6.1+incompatible // indirect
 	github.com/gohugoio/hugo-mod-jslibs-dist/popperjs/v2 v2.21100.20000 // indirect
 	github.com/hbstack/base v0.2.0 // indirect
-	github.com/hbstack/hb v0.5.0 // indirect
+	github.com/hbstack/hb v0.5.1 // indirect
 	github.com/hugomods/idb-js v0.1.0 // indirect
 	github.com/hugomods/pwa v0.3.0 // indirect
 )
