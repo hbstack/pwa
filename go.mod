@@ -8,5 +8,5 @@ require (
 	github.com/hbstack/base v0.2.0 // indirect
 	github.com/hbstack/hb v0.5.1 // indirect
 	github.com/hugomods/idb-js v0.1.0 // indirect
-	github.com/hugomods/pwa v0.3.0 // indirect
+	github.com/hugomods/pwa v0.3.1 // indirect
 )
